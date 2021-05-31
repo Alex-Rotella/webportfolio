@@ -3,8 +3,8 @@ title: Alexander Rotella's Portfolio
 subtitle: 
 email: arotella1221@gmail.com
 description: A summary of my experience as an aspiring Software Engineer.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: https://alex-rotella.github.io # the base hostname & protocol for your site
+baseurl: "webportfolio" # the subpath of your site, e.g. /blog
+url:  # the base hostname & protocol for your site
 author:
 
 
